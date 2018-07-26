@@ -1,0 +1,19 @@
+.channel {
+  color: #666;
+}
+.channel:hover {
+  background: #DDD;
+  color: #333;
+}
+.channel.active {
+  background: #CCC;
+  color: #111;
+}
+.topSection {
+  height: 80px;
+  border-bottom: 1px solid #DDD;
+}
+.bottomSection {
+  height: 50px;
+  border-top: 1px solid #DDD;
+}

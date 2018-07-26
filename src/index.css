@@ -1,0 +1,47 @@
+html, body, #root {
+  height: 100vh;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.flex-grow {
+  flex-grow: 1;
+}
+.flex-column {
+  flex-direction: column;
+}
+.m-auto {
+  margin: auto;
+}
+.m-10 {
+  margin: 10px;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+.ml-10 {
+  margin-left: 10px !important;
+}
+.mr-10 {
+  margin-right: 10px !important;
+}
+.p-10 {
+  padding: 10px !important;
+}
+.c-pointer {
+  cursor: pointer;
+}
+.text-center {
+  text-align: center;
+}
+.border-right {
+  border-right: 1px solid #DDD;
+}
+.d-flex {
+  display: flex;
+}
+.align-center {
+  align-items: center;
+}
